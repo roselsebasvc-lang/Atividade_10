@@ -1,0 +1,49 @@
+/* Cor de fundo geral */
+body {
+    background-color: #f0f0f0;
+}
+
+/* Header - Rosa */
+header {
+    background-color: #f77891;
+}
+
+/* Nav - Verde água */
+nav {
+    background-color: #4dd9a9;
+}
+
+/* Aside - Rosa claro */
+aside {
+    background-color: #f4d2dc;
+}
+
+/* Main - Azul claro */
+main {
+    background-color: #cbe8f5;
+}
+
+/* Article - Azul */
+article {
+    background-color: #67cdf0;
+}
+
+/* Figure - Amarelo claro */
+figure {
+    background-color: #f8f1b6;
+}
+
+/* Parágrafo - Verde claro */
+p {
+    background-color: #dff0a3;
+}
+
+/* Section - Azul forte */
+section {
+    background-color: #149df2;
+}
+
+/* Footer - Roxo */
+footer {
+    background-color: #b57af7;
+}
